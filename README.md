@@ -1,20 +1,21 @@
 # How to Deploy a React App to a Subdirectory
-### Define App Homepage in package.json
-### Set Basename in Router
-### Make changes in .htaccess 
-### Make build and deploy 
+1. Define App Homepage in package.json
+2. Set Basename in Router
+3. Make changes in .htaccess 
+4. Make build and deploy
+5. Enjoy!
 
 
 # How to Install - Step by Step Guide
 1. Clone using the following repo link
-### `git clone https://github.com/fullstacktutorials/deploy-react-app-subdirectory.git`
+#### `git clone https://github.com/fullstacktutorials/deploy-react-app-subdirectory.git`
 
 2. Go to the project folder and run npm install
-### `cd deploy-react-app-subdirectory`
-### `npm install`
+#### `cd deploy-react-app-subdirectory`
+#### `npm install`
 
 3. Now run your app
-### `npm start`
+#### `npm start`
 
 
 
